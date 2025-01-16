@@ -13,3 +13,7 @@ let user = {
     age: 23,
 }
 
+// let email = user.email   // There have a error because user has no attribute of email.
+
+
+
